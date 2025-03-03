@@ -11,7 +11,7 @@
 
 
 ## Thesis: 
-Heating and electricity are the largest sources of CO₂ emissions in most regions, underscoring their significant role in global pollution and a need for policy.
+Heating and electricity are the largest sources of CO₂ emissions in most regions (including the US), underscoring their significant role in global pollution and a need for policy.
 
 ## Context: 
 Who: Students, researchers, policymakers, and the general public.
