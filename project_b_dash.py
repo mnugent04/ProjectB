@@ -142,7 +142,7 @@ def update_choropleth(year_click, country_click):
         color="total_co2_emissions",
         hover_data={"country": True, "total_co2_emissions": True},
         title=f"Global CO₂ Emissions in {latest_year}",
-        color_continuous_scale="Plasma",
+        color_continuous_scale="Reds",
         range_color=(filtered_df["total_co2_emissions"].min(), 15000000000),
         template="plotly_white"
     )
