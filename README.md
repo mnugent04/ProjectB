@@ -13,6 +13,7 @@
 ## Thesis: 
 Heating and electricity are the largest sources of CO₂ emissions in most regions (including the US), underscoring their significant role in global pollution and a need for policy.
 
+
 ## Context: 
 Who: Students, researchers, policymakers, and the general public.
 
@@ -24,8 +25,13 @@ How: A slideshow and visual/interactive dash. The dash is made up of three graph
 2. Line graph illustrating a specific country's emissions over time.
 3. Bar chart of various sectors that make up a country's pollution level.
 
+
 ## Data Used:
 CSV file containing annual CO₂ emissions by region for the choropleth map (https://ourworldindata.org/grapher/annual-co-emissions-by-region?time=earliest..2023). CSV file containing annual CO₂ emissions by sector and region in order to take a drill down apporoach to the choropleth map (https://ourworldindata.org/grapher/co-emissions-by-sector). Located in the root directory titled 'annual-co-emissions-by-region.csv' and 'co-emissions-by-sector.csv'.
+
+Licenses:
+CC BY (for both datasets)
+
 
 ## Strategies from SwD:
 Using a bar chart to represent the data because there is less of a learning curve for the audience. (pg 50)
